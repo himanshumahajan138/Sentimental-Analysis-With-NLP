@@ -1,0 +1,25 @@
+Himanshu Mahajan
+himanshumahajan138@gmail.com
+
+WELCOME 
+
+Instructions:
+
+1. First of all Copy Himanshu Folder (remember to copy every file) to any required directory.
+
+2. Open Command Prompt on current Folder Location  as  a Adminstrator.
+
+3. After opening Command Prompt as Administrator Run Command "python Himanshu.py".
+
+4. After Running above command follow on screen instructions for further guidance.
+
+5. After Successfull run of program check '''OUTPUT.csv''' OR '''OUTPUT.xlsx''' files for result.
+
+6. Speed of Running totatly Depends upon your Network Connection speed.
+
+
+Thankyou!
+
+Himanshu Mahajan
+himanshumahajan138@gmail.com
+ 

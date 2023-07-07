@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+pandas
+nltk
+inflect
+syllables
